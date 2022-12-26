@@ -1,4 +1,4 @@
-### Hi there, I'm José Guedes and I love to I love to develop software! 👋
+### Hi there, I'm José Guedes and I love to develop software! 👋
 
 - 🔭 I’m currently working on a very special project!
 - 🌱 I’m currently learning ...
